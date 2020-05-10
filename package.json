@@ -9,6 +9,7 @@
   "author": "Ryan Peelman",
   "license": "ISC",
   "dependencies": {
+    "csv-stringify": "^5.5.0",
     "express": "^4.17.1"
   }
 }
